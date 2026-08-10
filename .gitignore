@@ -1,2 +1,5 @@
 #Test .log
 *.log
+
+#Test NoHello
+Hello.*
